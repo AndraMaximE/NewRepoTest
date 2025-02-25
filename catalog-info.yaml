@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: NewRepoTest
+  description: This repo was created with Backstage and it contains a README.md file
+spec:
+  type: website
+  lifecycle: production
+  owner: AndraMaximE
